@@ -54,6 +54,8 @@ section .container{
 .brand-list li {
     display: inline;
     margin-right: 8px;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .brand-list{
@@ -165,4 +167,8 @@ footer{
     color:#ecf0f1;
     padding: 16px 0;
 
+}
+
+ul{
+    list-style-type: none;
 }
